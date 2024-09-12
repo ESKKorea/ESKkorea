@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ESKKorea&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-<p 기술 스택 >
+<p>기술 스택 
 </p>
 
 <div align="center">
