@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   개발 스택 : Java , Spring , 
 
 
-[![ESKKorea's GitHub stats](https://github-readme-stats.vercel.app/api?username=ESKKorea)](https://github.com/ESKKorea/github-readme-stats)
+
 
 </div>
 
@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ESKkorea)](https://github.com/anuraghazra/github-readme-stats)
 
+[![ESKKorea's GitHub stats](https://github-readme-stats.vercel.app/api?username=ESKKorea)](https://github.com/ESKKorea/github-readme-stats)
