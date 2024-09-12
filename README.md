@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
- 개발자
 
   ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=ESKKorea's%20GitHub&fontSize=70&animation=scaleIn)
 
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
