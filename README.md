@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **ESKKorea/ESKkorea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
- 개발자
+## Hi there 👋
 </div>
