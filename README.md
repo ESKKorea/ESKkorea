@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FESKKorea%2Fhit-counter&count_bg=%2327C0D7&title_bg=%231B28BE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
 </div>
 
 
