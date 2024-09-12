@@ -18,8 +18,7 @@ Here are some ideas to get you started:
   
  <!-- ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=ESKKorea's%20GitHub&fontSize=70&animation=scaleIn) -->
  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ESKKorea&theme=dark&show_icons=true)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23258FD5&title_bg=%23232AE1&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   개발 스택 : Java , Spring , 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FESKKorea%2Fhit-counter&count_bg=%2327C0D7&title_bg=%231B28BE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
