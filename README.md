@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 <div align="center">
   
  <!-- ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=ESKKorea's%20GitHub&fontSize=70&animation=scaleIn) -->
-
- ![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23258FD5&title_bg=%23232AE1&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   개발 스택 : Java , Spring , 
 
+
+[![ESKKorea's GitHub stats](https://github-readme-stats.vercel.app/api?username=ESKKorea)](https://github.com/ESKKorea/github-readme-stats)
 
 </div>
 
