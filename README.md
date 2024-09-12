@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=ESKKorea's%20GitHub&fontSize=70&animation=scaleIn)
-
+ <!-- ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=ESKKorea's%20GitHub&fontSize=70&animation=scaleIn) -->
+ 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ESKKorea&theme=dark&show_icons=true)
 
   개발 스택 : Java , Spring , 
@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 
 
 
+ 
